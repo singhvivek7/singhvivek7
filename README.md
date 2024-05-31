@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://vivekkk.vercel.app)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Rust Language**
 
 - 👨‍💻 All of my projects are available at [https://vivekkk.vercel.app](https://vivekkk.vercel.app)
 
