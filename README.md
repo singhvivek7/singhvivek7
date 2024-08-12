@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhvivek7" alt="singhvivek7" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://vivekkk.vercel.app)
+- 🔭 I’m currently working on [my portfolio](https://thevivek.tech)
 
 - 🌱 I’m currently learning **Rust Language**
 
-- 👨‍💻 All of my projects are available at [https://vivekkk.vercel.app](https://vivekkk.vercel.app)
+- 👨‍💻 All of my projects are available at [https://thevivek.tech](https://thevivek.tech)
 
 - 💬 Ask me about **React.js, Next.js, Javascript**
 
 - 📫 How to reach me **singhvivek1999@yahoo.com**
 
-- 📄 Know about my experiences [https://vivekkk.vercel.app/#experience](https://vivekkk.vercel.app/#experience)
+- 📄 Know about my experiences [https://thevivek.tech/#experience](https://thevivek.tech/#experience)
 
 - ⚡ Fun fact **I think i understand things quickly**
 
