@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://thevivek.tech)
 
-- 🌱 I’m currently learning **Rust Language**
+- 🌱 I’m currently learning **Three.js & WebGL**
 
 - 👨‍💻 All of my projects are available at [https://thevivek.tech](https://thevivek.tech)
 
