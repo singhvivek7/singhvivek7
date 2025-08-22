@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhvivek7&label=Profile%20views&color=0e75b6&style=flat" alt="singhvivek7" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://thevivek.tech)
-
 - 🌱 I’m currently learning **Three.js & WebGL**
 
-- 👨‍💻 All of my projects are available at [https://thevivek.tech](https://thevivek.tech)
+- 👨‍💻 All of my projects are available at [https://vivekkk.vercel.app](https://vivekkk.vercel.app)
 
 - 💬 Ask me about **React.js, Next.js, Javascript, Node.js, and Nest.js**
 
 - 📫 How to reach me **singhvivek1999@yahoo.com**
 
-- 📄 Know about my experiences [https://thevivek.tech/#experience](https://thevivek.tech/#experience)
+- 📄 Know about my experiences [https://thevivek.tech/#experience](https://vivekkk.vercel.app#experience)
 
 - ⚡ Fun fact **I think i understand things quickly**
 
