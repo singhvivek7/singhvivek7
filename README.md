@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhvivek7&label=Profile%20views&color=0e75b6&style=flat" alt="singhvivek7" /> </p>
 
-- 🌱 I’m currently learning **Three.js & WebGL**
+- 🌱 I’m currently working on **[NextLink](https://next-link-v2.vercel.app)**
 
 - 👨‍💻 All of my projects are available at [https://vivekkk.vercel.app](https://vivekkk.vercel.app)
 
