@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate full atack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhvivek7&label=Profile%20views&color=0e75b6&style=flat" alt="singhvivek7" /> </p>
-
 - 🌱 I’m currently working on **[NextLink](https://next-link-v2.vercel.app)**
 
-- 👨‍💻 All of my projects are available at [https://vivekkk.vercel.app](https://vivekkk.vercel.app)
+- 👨‍💻 All of my projects are available at [https://vivekkk.in](https://vivekkk.in)
 
 - 💬 Ask me about **React.js, Next.js, Javascript, Node.js, and Nest.js**
 
 - 📫 How to reach me **singhvivek1999@yahoo.com**
 
-- 📄 Know about my experiences [https://thevivek.tech/#experience](https://vivekkk.vercel.app#experience)
+- 📄 Know about my experiences [https://vivekkk.in/#experience](https://vivekkk.vercel.app#experience)
 
 - ⚡ Fun fact **I think i understand things quickly**
 
